@@ -1,7 +1,7 @@
 ---
 title: 'The Reading of An Image is Worth 16X16 Words: Transformers for Image Recognition at Scale'
 date: 2023-05-04
-permalink: /posts/2023/05/blog-post-2/
+permalink: /posts/2023/05/blog-post-2
 tags:
   - Transformer
   - Self-Attention

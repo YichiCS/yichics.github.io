@@ -1,7 +1,7 @@
 ---
 title: 'The Reading of Attention is all you need'
 date: 2023-05-01
-permalink: /posts/2022/05/blog-post-1/
+permalink: /posts/2022/05/blog-post-1
 tags:
   - Transformer
   - Self-Attention
