@@ -10,7 +10,7 @@ redirect_from:
 
 Hello, I am **Yichi Zhang** 张亦弛, an undergraduate student majoring in **Information Engineering** at the College of Information Science and Electronic Engineering, Zhejiang University. I am also minoring in **Computer Science and Technology** at the College of Computer Science and Technology, Zhejiang University.  
 
-Previously, my main research direction was in **image/video generation and restoration**, under the guidance of Professor Xiaogang Xu. The recent emergence of models such as Stable Diffusion in the field of computer vision, and language models like ChatGPT in the field of natural language processing, has prompted me to focus on researching the **robustness and attack-defense of large models** represented by GPT under the guidance of Professor Shouling Ji and Professor Xiaogang Xu, and examining whether such models truly have robustness. 
+Previously, my main research direction was in **image/video generation and restoration**, under the guidance of Professor Xu. The recent emergence of models such as Stable Diffusion in the field of computer vision, and language models like ChatGPT in the field of natural language processing, has prompted me to focus on researching the **robustness and attack-defense of large models** represented by GPT under the guidance of Professor Ji and Professor Xu, and examining whether such models truly have robustness. 
 
 Robustness of Machine Learning
 ======
