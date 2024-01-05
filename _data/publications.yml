@@ -23,8 +23,8 @@ main:
 
   - title: "Diffusion Noise Feature: Accurate and Fast Generated Image Detection"
     authors: <strong>Yichi Zhang</strong>, Xiaogang Xu
-    conference_short: arXiv preprint
-    conference: arXiv
+    conference_short: arXiv
+    conference: arXiv preprint
     pdf: https://arxiv.org/pdf/2312.02625.pdf
     code: https://github.com/YichiCS/DNF
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
