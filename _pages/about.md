@@ -20,7 +20,8 @@ I have been seeking like-minded partners to collaborate with and welcome any out
 
 Publications/Manuscripts
 ======
-[Diffusion Noise Feature: Accurate and Fast Generated Image Detection](https://arxiv.org/abs/2312.02625)        
+**Diffusion Noise Feature: Accurate and Fast Generated Image Detection**     
+[[paper](https://arxiv.org/abs/2312.02625)]/[[code](https://github.com/YichiCS/Diffusion-Noise-Feature-Accurate-and-Fast-Generated-Image-Detection)]
 **Yichi Zhang**, Xiaogang Xu
 
 ![DNF](../images/about/fig1.png)
