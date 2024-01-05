@@ -18,6 +18,7 @@ If you are interested in me or my research, please feel free to contact me at yi
 
 ## News
 
+- **[Jan. 2024]** Currently fully preparing for the 2023 winter exam week.
 - **[Dec. 2023]** One paper about Generated Image Detection is released on the arXiv.
 
 {% include_relative _includes/publications.md %}
