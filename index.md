@@ -15,9 +15,9 @@ Hello, I am **Yichi Zhang** (张亦弛), an undergraduate student at Zhejiang Un
 * **Generative AI**
 * Machine Learning
 
-My primary research interests currently encompass Trustworthy AI and Machine Learning. Under the guidance of Professor **Shouling Ji**, I have become familiar with the issues of backdoor attacks and defenses in both federated learning systems and conventional centralized deep learning systems. I also focus on enhancing the robustness of Large Language Models (LLMs) and Large Vision Models (LVMs) against attacks. 
+My primary research interests currently encompass **Trustworthy AI and Machine Learning**. Under the guidance of Professor **Shouling Ji**, I have become familiar with the issues of backdoor attacks and defenses in both federated learning systems and conventional centralized deep learning systems. I also focus on enhancing the robustness of Large Language Models (LLMs) and Large Vision Models (LVMs) against attacks. 
 
-Prior to this, under the mentorship of Professor **Xiaogang Xu**, I was committed to detecting AI-generated images to prevent people from falling victim to telecommunication fraud. In this process, we utilized a reverse diffusion process to separate the distributions of real and generated images. Ultimately, we achieved a high-precision method for detecting generated images, known as **DNF**.
+Prior to this, under the mentorship of Professor **Xiaogang Xu**, I was committed to **detecting AI-generated images** to prevent people from falling victim to telecommunication fraud. In this process, we utilized a reverse diffusion process to separate the distributions of real and generated images. Ultimately, we achieved a high-precision method for detecting generated images, known as **DNF**.
 
 If you are interested in my research, please feel free to contact me at yichics02@gmail.com.
 
