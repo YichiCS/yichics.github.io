@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello, I am **Yichi Zhang** (张亦弛), an undergraduate student at Zhejiang University, majoring in Information Engineering and minoring in Computer Science and Technology. Currently, I am taking courses in my third year and participating in research work at [NESA Lab](https://nesa.zju.edu.cn/), under the guidance of Professor [Xiaogang Xu](https://scholar.google.com/citations?user=R65xDQwAAAAJ&hl=zh-CN&oi=ao) and Professor [Shouling Ji](https://scholar.google.com/citations?user=5HoF_9oAAAAJ&hl=zh-CN&oi=ao).
+Hello, I am **Yichi Zhang** (张亦弛), an undergraduate student at **Zhejiang University**, majoring in **Information Engineering** and minoring in **Computer Science and Technology**. Currently, I am taking courses in my third year and participating in research work at [**NESA Lab**](https://nesa.zju.edu.cn/), under the guidance of Professor [**Xiaogang Xu**](https://scholar.google.com/citations?user=R65xDQwAAAAJ&hl=zh-CN&oi=ao) and Professor [**Shouling Ji**](https://scholar.google.com/citations?user=5HoF_9oAAAAJ&hl=zh-CN&oi=ao).
 
 **I am looking for summer research internship opportunities on 24 Summer. Remote internship immediately or Summer internship.**
 
