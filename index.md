@@ -19,7 +19,7 @@ My primary research interests currently encompass **Trustworthy AI and Machine L
 
 Prior to this, under the mentorship of Professor **Xiaogang Xu**, I was committed to **detecting AI-generated images** to prevent people from falling victim to telecommunication fraud. In this process, we utilized a reverse diffusion process to separate the distributions of real and generated images. Ultimately, we achieved a high-precision method for detecting generated images, known as **DNF**.
 
-If you are interested in my research, please feel free to contact me at yichics02 \[at\] gmail \[dot\] com.
+If you are interested in my research, please feel free to contact me by **yichics02 \[at\] gmail \[dot\] com** or **yichizhang \[at\] zju \[dot\] edu \[dot\] cn**.
 
 ## News
 
