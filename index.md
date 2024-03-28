@@ -24,7 +24,7 @@ If you are interested in my research, please feel free to contact me by **yichic
 ## News
 
 <!-- 我正在寻找24Summer的暑期研究实习机会，可以立刻开始远程实习或者暑期线下实习 -->
-<!-- - **[Mar. 2024]** **Looking for summer research internship opportunities on 24 Summer.** -->
+- **[Mar. 2024]** To become an research intern of ALPS Lab at SBU on 2024 Summer.
 - **[Dec. 2023]** One paper about Generated Image Detection is released on the arXiv.
 
 {% include_relative _includes/publications.md %}
