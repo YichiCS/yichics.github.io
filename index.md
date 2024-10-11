@@ -10,7 +10,7 @@ Hello, I am **Yichi Zhang** (张亦弛), an undergraduate student at [Zhejiang U
 
 ## Research Interest
 
-To develop trustworthy AI systems for critical applications, I believe it is essential to address three key factors: **robustness**, **safety**, and **interpretability**. Driven by these considerations, I aim to explore the following research questions: **(i)** How can we ensure that models maintain sufficient robustness during interactions with external environments, protecting them from hidden threats? **(ii)** How can we minimize bias and harmful content in model outputs to promote fairness and reliability? **(iii)** How can we establish comprehensive benchmarks that quantifies the trustworthiness and safety of LLMs from multiple dimensions to enhancing interpretability?
+To develop **trustworthy AI systems** for critical applications, I believe it is essential to address three key factors: **robustness**, **safety**, and **interpretability**. Driven by these considerations, I aim to explore the following research questions: **(i)** How can we ensure that models maintain sufficient robustness during interactions with external environments, protecting them from hidden threats? **(ii)** How can we minimize bias and harmful content in model outputs to promote fairness and reliability? **(iii)** How can we establish comprehensive benchmarks that quantifies the trustworthiness and safety of LLMs from multiple dimensions to enhancing interpretability?
 
 <!--  -->
 
