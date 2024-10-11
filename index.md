@@ -6,7 +6,7 @@ layout: homepage
 
 Hello, I am **Yichi Zhang** (张亦弛), an undergraduate student at [Zhejiang University](https://www.zju.edu.cn/), majoring in **Information Engineering** and minoring in **Computer Science and Technology**. Currently, I am taking courses in my fourth year and participating in research work at [NESA Lab](https://nesa.zju.edu.cn/), under the guidance of Prof. [Xiaogang Xu](https://scholar.google.com/citations?user=R65xDQwAAAAJ&hl=zh-CN&oi=ao) and Prof. [Shouling Ji](https://scholar.google.com/citations?user=5HoF_9oAAAAJ&hl=zh-CN&oi=ao). I also collaborate with Prof. [Ting Wang](https://alps-lab.github.io/) as summer research intern.
 
-<font color="#dd0000">**Now I am looking for 25 Fall CS/ECE Ph.D. Opportunity.**</font><br />
+<font color="#dd0000">Now I am looking for 25 Fall CS/ECE Ph.D. Opportunity.</font><br />
 
 ## Research Interest
 
@@ -23,4 +23,4 @@ If you are interested in my research, please feel free to contact me by **yichic
 
 {% include_relative _includes/publications.md %}
 
-<!-- {% include_relative _includes/services.md %} -->
+{% include_relative _includes/services.md %}
